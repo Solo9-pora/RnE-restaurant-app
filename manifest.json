@@ -1,0 +1,17 @@
+{
+  "name": "R & E Kitchen — A taste of home",
+  "short_name": "R & E Kitchen",
+  "description": "Order soulful Nigerian comfort food from R and E Kitchen, Off Abacha Road, Karu, Nasarawa State.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#171612",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "220x220",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
