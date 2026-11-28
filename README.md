@@ -32,3 +32,6 @@ Use **Staff sign in** in the footer and PIN `2026`.
 ## Important before launch
 
 This is a front-end prototype. Data is stored only in the current browser and is not shared across devices. The demo checkout does not process payments, and the staff PIN is visible in client-side code. Before taking real orders, connect a server/database, add secure customer/staff authentication and permissions, verify the restaurant's menu/prices/delivery zones, and integrate a payment provider and order notifications. The sample menu and delivery fee are editable demo content.
+
+
+https://solo9-pora.github.io/RnE-restaurant-app/
